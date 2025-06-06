@@ -1,0 +1,16 @@
+{
+	"git": {
+		"commit": {
+			"time": "2025-06-06 11:10:20",
+			"id": "6baa7cf43638fb9daa59ce25597c764a8c1539c2",
+			"id.abbrev": "6baa7cf"
+		},
+		"branch": "master"
+	},
+	"build": {
+		"descript": "bright-blog",
+		"version": "1.0.0",
+		"time": "2025-06-06 11:11:40",
+		"name": "yangliang"
+	}
+}
